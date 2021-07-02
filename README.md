@@ -1,7 +1,15 @@
+
 # Python-Resources-2019
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+### Resources I used this week
+
+* [_Python 4 Everybody_](https://books.trinket.io/pfe/index.html)  The interactive version of the textbook by Charles Severance
+
+* [_W3 Schools_](https://www.w3schools.com/python/default.asp)  Quick and easy refreshers for syntax 
+
+* [_Python Docs_](https://docs.python.org/3/tutorial/) The official python tutorial, I think. 
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
